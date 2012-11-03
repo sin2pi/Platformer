@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Collision.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1059" topLine="51" />
+	</File>
+	<File name="Collision.h" open="1" top="0" tabpos="5">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="Enemy.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="406" topLine="0" />
+	</File>
+	<File name="Enemy.h" open="0" top="0" tabpos="7">
+		<Cursor position="16" topLine="3" />
+	</File>
+	<File name="LuaFuntions.h" open="1" top="0" tabpos="2">
+		<Cursor position="758" topLine="121" />
+	</File>
+	<File name="Object.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="239" topLine="0" />
+	</File>
+	<File name="Object.h" open="1" top="0" tabpos="6">
+		<Cursor position="80" topLine="9" />
+	</File>
+	<File name="Particle.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="25" topLine="0" />
+	</File>
+	<File name="Particle.h" open="0" top="0" tabpos="9">
+		<Cursor position="60" topLine="6" />
+	</File>
+	<File name="Player.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1474" topLine="85" />
+	</File>
+	<File name="Player.h" open="0" top="0" tabpos="5">
+		<Cursor position="399" topLine="0" />
+	</File>
+	<File name="Tile.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="761" topLine="0" />
+	</File>
+	<File name="Tile.h" open="1" top="0" tabpos="4">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="cBullet.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="cBullet.h" open="1" top="0" tabpos="3">
+		<Cursor position="54" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="18160" topLine="577" />
+	</File>
+</CodeBlocks_layout_file>

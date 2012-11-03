@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1342055436 source:c:\users\martin\desktop\topdown\cbullet.cpp
+
+1341959639 source:c:\users\martin\desktop\topdown\ccollision.cpp
+	"cCollision.h"
+
+1341959646 c:\users\martin\desktop\topdown\ccollision.h
+	<SDL/SDL.h>
+
+1342019797 source:c:\users\martin\desktop\topdown\cplayer.cpp
+	"cPlayer.h"
+
+1342019788 c:\users\martin\desktop\topdown\cplayer.h
+	"cCollision.h"
+
+1342055438 c:\users\martin\desktop\topdown\cbullet.h
+
+1341959804 source:c:\users\martin\desktop\topdown\tilesystem.cpp
+	"TileSystem.h"
+
+1341959793 c:\users\martin\desktop\topdown\tilesystem.h
+	<SDL/SDL.h>
+	<fstream>
+	"Globals.h"
+	"cCollision.h"
+
+1341882023 c:\users\martin\desktop\topdown\globals.h
+
+1342031736 source:c:\users\martin\desktop\topdown\main.cpp
+	<SDL/SDL.h>
+	"Globals.h"
+	"cPlayer.h"
+	"TileSystem.h"
+	"cCollision.h"
+	"cBullet.h"
+

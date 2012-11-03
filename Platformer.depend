@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1351576612 source:c:\users\martin\desktop\platformer\enemy.cpp
+	"Enemy.h"
+
+1351740329 source:c:\users\martin\desktop\platformer\player.cpp
+	"Player.h"
+
+1351735112 c:\users\martin\desktop\platformer\player.h
+	<SDL.h>
+	"Particle.h"
+	"Collision.h"
+
+1351735091 c:\users\martin\desktop\platformer\collision.h
+	<SDL.h>
+	"Tile.h"
+
+1351735134 c:\users\martin\desktop\platformer\tile.h
+	<fstream>
+	<SDL.h>
+
+1351715494 source:c:\users\martin\desktop\platformer\tile.cpp
+	"Tile.h"
+
+1351955117 source:c:\users\martin\desktop\platformer\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	"Player.h"
+	"Collision.h"
+	"Tile.h"
+	"Enemy.h"
+	"Particle.h"
+	"LuaFuntions.h"
+	<lua.hpp>
+	<lauxlib.h>
+	"cBullet.h"
+	"Object.h"
+
+1351736994 source:c:\users\martin\desktop\platformer\collision.cpp
+	"Collision.h"
+
+1351735134 c:\users\martin\desktop\platformer\enemy.h
+	<SDL.h>
+	"Particle.h"
+
+1347210721 c:\users\martin\desktop\platformer\luafunctions.h
+	<lua.hpp>
+	<lauxlib.h>
+	<SDL_mixer.h>
+
+1349910418 source:c:\users\martin\desktop\platformer\cbullet.cpp
+	"cBullet.h"
+
+1351735134 c:\users\martin\desktop\platformer\cbullet.h
+	<SDL.h>
+	<vector>
+	"Collision.h"
+
+1351118089 source:c:\users\martin\desktop\platformer\checkpoint.cpp
+	"Checkpoint.h"
+
+1351116456 c:\users\martin\desktop\platformer\checkpoint.h
+	<SDL.h>
+	"Tile.h"
+
+1351569071 source:c:\users\martin\desktop\platformer\particle.cpp
+	"Particle.h"
+
+1351735134 c:\users\martin\desktop\platformer\particle.h
+	<SDL.h>
+
+1351954922 c:\users\martin\desktop\platformer\luafuntions.h
+	<lua.hpp>
+	<lauxlib.h>
+	<SDL_mixer.h>
+
+1351655946 source:c:\users\martin\desktop\platformer\object.cpp
+	"Object.h"
+
+1351735134 c:\users\martin\desktop\platformer\object.h
+	<SDL.h>
+	<Lua.h>
+	<lauxlib.h>
+
+1177981314 c:\users\martin\desktop\platformer\glsdl.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+	"SDL_image.h"
+
+1182556646 source:c:\users\martin\desktop\platformer\glsdl.c
+	"glSDL.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"SDL_opengl.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+

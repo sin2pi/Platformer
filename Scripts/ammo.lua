@@ -1,0 +1,2 @@
+BulletAmount(10)
+
